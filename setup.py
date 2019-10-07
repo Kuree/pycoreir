@@ -93,7 +93,7 @@ if False:
 
 setup(
     name='pycoreir',
-    version='2.0.29.1',
+    version='2.0.29.2',
     description='Python bindings for CoreIR with one click install',
     packages=["coreir"],
     license='BSD License',
